@@ -1,2 +1,2 @@
 # PictureStash
-个人图库
+个人远程git图库
